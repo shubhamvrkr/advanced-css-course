@@ -73,3 +73,4 @@ Unfortunately, this is quite common. I listed some possible fixes [in this docum
  - https://linea.io/
  - https://unsplash.com/
  - https://coverr.co/
+ - https://icomoon.io/
